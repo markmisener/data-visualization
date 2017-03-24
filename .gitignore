@@ -1,0 +1,5 @@
+# directories
+.ipynb_checkpoints/
+
+# files
+.DS_Store
