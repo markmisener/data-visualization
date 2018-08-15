@@ -1,7 +1,10 @@
 # data visualizations
 
-# dashboard
-Flask dashboard (work in progress) of various data visualizations.
+# Jupyter notebooks
+Various data visualization projects. View them [here](http://nbviewer.jupyter.org/github/markmisener/data-visualization/tree/master/).
+
+# Flask app/dashboard
+Flask app/dashboard (work in progress) of various data visualizations.
 
 ## Serve locally
 ``` sh
